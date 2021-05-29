@@ -1,14 +1,13 @@
 ### Mindset
-- Development of applications or ideas of any kind
-- Contributions to projects, or collaborations, if possible
+- Whatever I think I try to create
+- Contributions to projects, collaborations, etc.
 
 ### Goals
 - The arduous process of learning and gaining
-- Acquisition of good practices (e.g. "production grade code"), etc.
-- to be actually good at thinking
-- The ability to develop efficient, developer friendly programs using the above points
+- Good practices (e.g. "production grade code"), etc.
+- Developer friendly programs
 
 ### Knowledge
-- my lazy brain and a hand or two
+- not a lot
 
 📫 thingstuffet@gmail.com
